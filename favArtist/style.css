@@ -1,0 +1,10 @@
+body {
+    background-color:#a6b345;
+    border-style: double; border-color:"#91274";
+    font-family:courier
+    }
+img {
+    border:solid;
+    border-color:#91274F;
+    border-width:5px;
+}
